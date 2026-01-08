@@ -1,0 +1,58 @@
+# פיגיטויז — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-ecde8d4e.zappy5.app
+פיגיטויז מציעה צעצועי פיג'ט ידידותיים לסביבה המשפרים ריכוז בילדים. גלו את המגוון שלנו היום!
+
+### המוצרים שלנו
+https://-ecde8d4e.zappy5.app/products
+גלו את המגוון המלא של צעצועי פיג'ט ידידותיים לסביבה. פיג'טים איכותיים לשיפור ריכוז והרגעה לילדים.
+
+### אודות
+https://-ecde8d4e.zappy5.app/about
+גלו את הסיפור מאחורי פיגיטויז - חברה ישראלית המתמחה בצעצועי פיג'ט ידידותיים לסביבה לילדים.
+
+### צור קשר
+https://-ecde8d4e.zappy5.app/contact
+צרו קשר עם פיגיטויז לפרטים נוספים על צעצועי פיג'ט ידידותיים לסביבה. נשמח לענות על כל שאלה!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ecde8d4e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ecde8d4e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ecde8d4e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פיגיטויז
+פיגיטויז is a business in the General industry.
+
+## Target Audience
+- הורים צעירים
+- משפחות ידידותיות לסביבה
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-ecde8d4e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-ecde8d4e.zappy5.app/robots.txt
